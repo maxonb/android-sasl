@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="android-sasl:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/android_sasl_jar</output-path>
+    <root id="archive" name="android-sasl.jar">
+      <element id="module-output" name="android-sasl" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
